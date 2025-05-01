@@ -1,5 +1,5 @@
 {
-  "homepage": "https://jdbosz.github.io/website_demo",
+  "homepage": "http://jdbosz.github.io/website_demo",
   "name": "my-react-app",
   "private": true,
   "version": "0.0.0",
@@ -11,7 +11,6 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-
   },
   "dependencies": {
     "emailjs-com": "^3.2.0",

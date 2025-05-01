@@ -43,7 +43,7 @@ const Data = [
       id: 6,
       category: "experience",
       icon: "icon-briefcase",
-      year: "Maart 2020 - heden",
+      year: "Februari 2024 - Juli 2024 (6 maanden)",
       title: "Digital Society Hub",
       company: "DevOps Engineer (Stage)",
       desc: "Ontwikkelingen en implementeren van geautomatiseerde infrastructuren en tooling",
